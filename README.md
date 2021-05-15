@@ -1,6 +1,6 @@
 # Studying ReactJS Project
 
-Project developed on [Alura](www.alura.com.br) Imersion aug/2020.
+Project developed on [Alura](https://www.alura.com.br) Imersion aug/2020.
 
 ## Videos about styles
 [Estilização Imersão React 01 - Estilos globais, reset e Menu](https://www.youtube.com/watch?v=nDxp3YEpR1E) \
