@@ -1,11 +1,11 @@
 # Studying ReactJS Project
 
-Project used on Alura Imersion aug/2020
+Project developed on [Alura] (www.alura.com.br) Imersion aug/2020.
 
 ## Videos about styles
-Estilização Imersão React 01 - Estilos globais, reset e Menu [https://www.youtube.com/watch?v=nDxp3YEpR1E] \
-Estilização Imersão React 02 - Banner [https://www.youtube.com/watch?v=Lltrp9QiL40] \
-Estilização Imersão React 03 - Carousel e Footer [https://www.youtube.com/watch?v=HEPOH4HbArk] \
+[Estilização Imersão React 01 - Estilos globais, reset e Menu] (https://www.youtube.com/watch?v=nDxp3YEpR1E) \
+[Estilização Imersão React 02 - Banner] (https://www.youtube.com/watch?v=Lltrp9QiL40) \
+[Estilização Imersão React 03 - Carousel e Footer] (https://www.youtube.com/watch?v=HEPOH4HbArk)
 
 
 
