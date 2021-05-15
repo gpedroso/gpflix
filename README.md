@@ -1,4 +1,4 @@
-# Studyng ReactJS project
+# Studying ReactJS Project
 
 Project used on Alura Imersion aug/2020
 
