@@ -1,3 +1,14 @@
+# Studyng ReactJS project
+
+Project used on Alura Imersion aug/2020
+
+## Videos about styles
+https://www.youtube.com/watch?v=nDxp3YEpR1E
+https://www.youtube.com/watch?v=Lltrp9QiL40
+https://www.youtube.com/watch?v=HEPOH4HbArk
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
