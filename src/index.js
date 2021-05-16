@@ -1,13 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Home from './pages/Home';
 import reportWebVitals from './reportWebVitals';
 
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+
+import RegisterVideo from './pages/register/Video';
+
+const Page404 = () => (<div>Error 404!!</div>)
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+
+  <BrowserRouter>
+    <Switch>
+      <Route path='/' component={Home} exact />
+      <Route path='/register/video' component = {RegisterVideo} />
+      <Route component={Page404} />
+    </Switch>
+  </BrowserRouter>,
+
   document.getElementById('root')
 );
 
