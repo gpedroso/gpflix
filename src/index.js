@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 import RegisterVideo from './pages/register/Video';
+import RegisterCategory from './pages/register/Category';
 
 const Page404 = () => (<div>Error 404!!</div>)
 
@@ -15,7 +16,8 @@ ReactDOM.render(
   <BrowserRouter>
     <Switch>
       <Route path='/' component={Home} exact />
-      <Route path='/register/video' component = {RegisterVideo} />
+      <Route path='/register/Video' component = {RegisterVideo} />
+      <Route path='/register/Category' component = {RegisterCategory} />
       <Route component={Page404} />
     </Switch>
   </BrowserRouter>,
