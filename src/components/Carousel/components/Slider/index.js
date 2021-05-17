@@ -36,13 +36,19 @@ export const SliderItem = styled.li`
     height: 197px;
     object-fit: cover;
   }
+
+  transition: opacity .3s;
+    &:hover,
+    &:focus {
+        opacity: .5;
+    }
 `;
 
 
 const Slider = ({ children }) => (
   <Container>
     <SlickSlider {...{
-      dots: false,
+      dots: true,
       infinite: false,
       speed: 300,
       centerMode: false,
